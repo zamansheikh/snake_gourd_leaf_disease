@@ -1,0 +1,6 @@
+0 algal_spot
+1 gray_blight
+2 healthy
+3 brown_blight
+4 helopeltis
+5 red_spot
